@@ -7,8 +7,9 @@ AI Assistant for Covid Stats
 # Running AI step by step
 Initailize virtaul env:
 1. python -m venv manu
-2. Install all package using pip install requirements.txt
-3. Naviagte to ManuAI folder
-4. Run python speak.py
+2. activate env using `source manu/bin/activate` command
+3. Install all package using pip install requirements.txt
+4. Naviagte to ManuAI folder
+5. Run python speak.py [If it does not work in integrated terminal try with outside terminal window. I faced this issue in VScode as it needs permission for accessing audio]
 
 
