@@ -12,4 +12,7 @@ Initailize virtaul env:
 4. Naviagte to ManuAI folder
 5. Run python speak.py [If it does not work in integrated terminal try with outside terminal window. I faced this issue in VScode as it needs permission for accessing audio]
 
+# Demo
+Here is the youtube link for demo: https://www.youtube.com/watch?v=WJd9eHLe65E
+
 
