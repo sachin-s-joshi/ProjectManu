@@ -1,5 +1,5 @@
 # ProjectManu
-AI Assistant for Covid Stats
+Assistant for Covid Stats
 
 # Pre-requisite 
 1. On Mac install portaudio using brew(or any other way I used brew) [brew install portaudio]
