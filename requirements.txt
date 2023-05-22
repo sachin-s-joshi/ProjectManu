@@ -131,7 +131,7 @@ pylint==2.5.3
 # pyobjc-framework-WebKit==6.2
 pyttsx3==2.87
 regex==2020.5.14
-requests==2.24.0
+requests==2.31.0
 six==1.15.0
 SpeechRecognition==3.8.1
 # toml==0.10.1
